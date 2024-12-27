@@ -12,4 +12,4 @@ For these reasons I have decided to publish new work on Codeberg instead: https:
 
 Another nice option is [sourcehut](https://sourcehut.org/).
 
-I hope you look closely at GitHub as well, and consider making your own decision in line with your values.
+I hope you look closely at GitHub and Microsoft as well, and consider making your own decision in line with your values.
